@@ -8,4 +8,6 @@ STEPS
 
 2. Goto Your Extensions (chrome://extensions/) And Turn On "Developer Mode" In The Top Right.
 
-3. Goto The Cheats
+3. Goto The Cheats.
+
+4. Enjoy!
